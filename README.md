@@ -14,3 +14,7 @@ This file contains (and will contain) all the **`Function Selectors`** of respec
 `increaseAllowance` => `0x39509351` <br/>
 `decreaseAllowance` => `0xa457c2d7` <br/>
 <!-- `` => `` <br/> -->
+
+## ERC721
+## ERC777
+## ERC1155
