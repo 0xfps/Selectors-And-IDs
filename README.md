@@ -53,3 +53,11 @@ Compiler Version: 0.8.7.
 `transferFrom` => `0x23b872dd` <br/>
 
 ## ERC1155
+`supportsInterface` => `0x01ffc9a7` <br/>
+`uri` => `0x0e89341c` <br/>
+`balanceOf` => `0x00fdd58e` <br/>
+`balanceOfBatch` => `0x4e1273f4` <br/>
+`setApprovalForAll` => `0xa22cb465` <br/>
+`isApprovedForAll` => `0xe985e9c5` <br/>
+`safeTransferFrom` => `0xf242432a` <br/>
+`safeBatchTransferFrom` => `0x2eb2c2d6` <br/>
