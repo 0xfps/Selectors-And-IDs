@@ -33,4 +33,23 @@ Compiler Version: 0.8.7.
 `safeTransferFrom(address,address,uint256,bytes)` => `0xb88d4fde` <br/>
 
 ## ERC777
+`name` => `0x06fdde03` <br/>
+`symbol` => `0x95d89b41` <br/>
+`decimals` => `0x313ce567` <br/>
+`granularity` => `0x556f0dc7` <br/>
+`totalSupply` => `0x18160ddd` <br/>
+`balanceOf` => `0x70a08231` <br/>
+`send` => `0x9bd9bbc6` <br/>
+`transfer` => `0xa9059cbb` <br/>
+`burn` => `0xfe9d9303` <br/>
+`isOperatorFor` => `0xd95b6371` <br/>
+`authorizeOperator` => `0x959b8c3f` <br/>
+`revokeOperator` => `0xfad8b32a` <br/>
+`defaultOperators` => `0x06e48538` <br/>
+`operatorSend` => `0x62ad1b83` <br/>
+`operatorBurn` => `0xfc673c4f` <br/>
+`allowance` => `0xdd62ed3e` <br/>
+`approve` => `0x095ea7b3` <br/>
+`transferFrom` => `0x23b872dd` <br/>
+
 ## ERC1155
